@@ -1,0 +1,4 @@
+targetCommand: pip
+commandString: pip install <package>==<version>
+description:
+  Install python package with pip at a specific version

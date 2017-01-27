@@ -1,0 +1,4 @@
+targetCommand: docker
+commandString: docker rmi $(docker images -q)
+description:
+  Removes all docker images

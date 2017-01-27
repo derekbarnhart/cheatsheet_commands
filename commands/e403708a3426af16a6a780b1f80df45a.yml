@@ -1,0 +1,4 @@
+targetCommand: ssh-keygen
+commandString: ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+description:
+  Generates a new ssh key

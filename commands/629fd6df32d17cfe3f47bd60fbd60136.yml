@@ -1,0 +1,4 @@
+targetCommand: git
+commandString: git rebase -i develop
+description:
+  Rebase a branch back to the develop branch
